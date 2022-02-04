@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning Algebra 1, going into high school soon.
  
-- 📫 How to reach me: [Discord](https://discordapp.com/users/463024798784815105/).
+- 📫 How to reach me: [Discord](https://discordapp.com/users/463024798784815105/), [Twitter](https://twitter.com/jam3shug), [Email](https://mail.google.com/mail/u/0/?fs=1&to=jameshug678@gmail.com&tf=cm)
 
 - 😄 Pronouns: he/him
