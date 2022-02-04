@@ -6,7 +6,7 @@
 - 😄 Pronouns: he/him
 
 - <!-- …
-[1.1]: https://i.imgur.com/sOpAntE.png
+[1.1]: https://i.imgur.com/2fvkMTI.png
 
 [1]: https://discordapp.com/users/463024798784815105/
 -->
