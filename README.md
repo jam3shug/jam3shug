@@ -1,6 +1,6 @@
 ## Hello 👋
 
-- 💻 I’m currently working on LunarRift, an FPS game for macOS being developed in Unity, and Ultimate Tennis Quiz, a trivia game for tennis fans.
+- 💻 I’m currently working on Ultimate Tennis Quiz, a trivia game for tennis fans.
 
 - 📐 I’m currently learning Geometry, in freshman year right now!
  
